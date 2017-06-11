@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">LiterWrite</string>
+    <string-array name="hellos_array">
+        <item>Hello</item>
+        <item>Hola</item>
+        <item>Bonjour</item>
+        <item>नमस्ते</item>
+        <item>Здравствуйте</item>
+        <item>مرحبا</item>
+    </string-array>
+</resources>
